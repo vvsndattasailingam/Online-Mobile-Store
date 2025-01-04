@@ -52,6 +52,5 @@ The Online Mobile Store Website is a web application that allows users to browse
 5. Confirm orders and track statuses.
 
 ## Contributors
-
-- **Lingam VVSN Datta Sai**  
+ 
   Developed as part of the coursework Internet and Web Programming under the guidance of Dr. Hema N.
